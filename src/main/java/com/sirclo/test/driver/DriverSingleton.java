@@ -1,13 +1,12 @@
-package com.setup.driver.driver;
+package com.sirclo.test.driver;
 
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 
-
-import com.setup.driver.driver.strategies.DriverStrategy;
-import com.setup.driver.driver.strategies.DriverStrategyImplementer;
-import com.setup.driver.utils.Constants;
+import com.sirclo.test.driver.strategies.DriverStrategy;
+import com.sirclo.test.driver.strategies.DriverStrategyImplementer;
+import com.sirclo.test.utils.Constants;
 
 
 public class DriverSingleton {

@@ -1,4 +1,4 @@
-package com.setup.driver.driver.strategies;
+package com.sirclo.test.driver.strategies;
 
 import org.openqa.selenium.WebDriver;
 

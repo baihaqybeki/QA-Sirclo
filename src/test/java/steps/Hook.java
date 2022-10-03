@@ -2,8 +2,8 @@ package steps;
 
 import org.openqa.selenium.WebDriver;
 
-import com.setup.driver.driver.DriverSingleton;
-import com.setup.driver.utils.Constants;
+import com.sirclo.test.driver.DriverSingleton;
+import com.sirclo.test.utils.Constants;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;

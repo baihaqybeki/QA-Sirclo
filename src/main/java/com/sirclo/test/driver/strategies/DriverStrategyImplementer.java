@@ -1,7 +1,7 @@
-package com.setup.driver.driver.strategies;
+package com.sirclo.test.driver.strategies;
 
 
-import com.setup.driver.utils.Constants;
+import com.sirclo.test.utils.Constants;
 
 public class DriverStrategyImplementer {
 	
